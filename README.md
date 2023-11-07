@@ -1,4 +1,4 @@
-##Hospital Management System## <br>
+<h2>Hospital Management System</h2> <br>
 Built With
 (1) HTML
 (2) CSS
